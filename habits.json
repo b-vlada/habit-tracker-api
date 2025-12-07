@@ -1,0 +1,44 @@
+{
+  "habits": {
+    "4": {
+      "id": 4,
+      "name": "Тренировка",
+      "description": "",
+      "category": "здоровье",
+      "frequency": "ежедневно",
+      "created_at": "2025-10-29T21:45:46.186605+03:00",
+      "completed": false
+    }
+  },
+  "goals": {
+    "3": {
+      "id": 3,
+      "title": "Заработать 1 млн руб",
+      "description": "",
+      "target_date": "2025-12-31T00:00:00Z",
+      "created_at": "2025-10-29T21:49:12.4080685+03:00",
+      "completed": true,
+      "completed_at": "2025-10-29T22:32:07.6412816+03:00",
+      "habit_ids": []
+    }
+  },
+  "habit_tracks": {
+    "1": {
+      "id": 1,
+      "habit_id": 4,
+      "date": "2025-10-29T21:46:29.1226606+03:00",
+      "completed": true,
+      "notes": ""
+    },
+    "2": {
+      "id": 2,
+      "habit_id": 4,
+      "date": "2025-10-29T22:14:16.7548866+03:00",
+      "completed": true,
+      "notes": "рро"
+    }
+  },
+  "next_habit_id": 6,
+  "next_goal_id": 4,
+  "next_track_id": 3
+}
